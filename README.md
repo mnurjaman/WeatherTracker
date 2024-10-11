@@ -16,6 +16,7 @@
 <h2>Technology Stack</h2>
 <ul>
     <li>Swift</li>
+    <li>Alamofire</li>
     <li>SwiftUI</li>
     <li>Combine</li>
     <li><a href="https://openweathermap.org/">Open Weather Map API</a></li>
