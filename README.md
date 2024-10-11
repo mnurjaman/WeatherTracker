@@ -18,7 +18,7 @@
     <li>Swift</li>
     <li>SwiftUI</li>
     <li>Combine</li>
-    <li href="https://openweathermap.org/">Open Weather Map API</li>
+    <li><a href="https://openweathermap.org/">Open Weather Map API</a></li>
     <li>MVVM Architecture</li>
 </ul>
 
