@@ -18,7 +18,7 @@
     <li>Swift</li>
     <li>SwiftUI</li>
     <li>Combine</li>
-    <li>Open Weather Map API</li>
+    <li href="https://openweathermap.org/">Open Weather Map API</li>
     <li>MVVM Architecture</li>
 </ul>
 
@@ -30,5 +30,3 @@
     <li>Enter your details and select a location to view weather information</li>
 </ol>
 
-<h2>Contributing</h2>
-<p>We welcome contributions from other developers! Please open an issue or submit a pull request if you have ideas for improvements or new features.</p>
